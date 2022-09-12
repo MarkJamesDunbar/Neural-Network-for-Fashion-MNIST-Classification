@@ -79,9 +79,11 @@ initialisation followed close behind but did not manage to break the 90% accurac
 loss than both the Xavier and Kaiming initialisers. The results are presented below.
 
 ![image](https://user-images.githubusercontent.com/57494763/189677639-5f2041ea-6da5-4437-88e6-78dbb842c2d5.png)
+
 1. Adam Train/Test Accuracy and Loss Curves 
 
 ![image](https://user-images.githubusercontent.com/57494763/189677712-1dea1510-1c3c-481e-ab9c-7a4c921e83a7.png)
+
 2. Rectified Adam Train/Test Accuracy and Loss Curves
 
 
@@ -102,15 +104,19 @@ accuracy and loss curves can all be seen above for this model, in figure 6.
 | Kaiming Uniform     | 60     | 0.930             | 0.892         | 0.19  |
 
 ![image](https://user-images.githubusercontent.com/57494763/189679138-ad43c08f-7639-42c3-85ad-3a0ac0846fe3.png)
+
 3. Xavier Uniform Train/Test Accuracy and Loss Curves.
 
 ![image](https://user-images.githubusercontent.com/57494763/189679195-7b49896d-000e-485d-a202-27acfa73ebd9.png)
+
 4. Normal Train/Test Accuracy and Loss Curves.
 
 ![image](https://user-images.githubusercontent.com/57494763/189679246-3d2971bc-6fc9-42ac-94b4-3b3500204c0b.png)
+
 5. Kaiming Uniform Train/Test Accuracy and Loss Curves.
 
 ![image](https://user-images.githubusercontent.com/57494763/189679294-cf6b93af-0598-42da-8d7f-5107d74caa03.png)
+
 6. Final Model Train/Test Accuracy and Loss Curves.
 
 
