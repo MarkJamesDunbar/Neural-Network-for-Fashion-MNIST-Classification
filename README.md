@@ -78,13 +78,14 @@ Uniform initialiser outperformed both the Normal distribution initialiser, as we
 initialisation followed close behind but did not manage to break the 90% accuracy score for the test data. The Normal distribution initialiser was the worst performing initialiser by far, producing an accuracy of < 88%, and a much higher final
 loss than both the Xavier and Kaiming initialisers. The results are presented below.
 
-![image](https://user-images.githubusercontent.com/57494763/189677639-5f2041ea-6da5-4437-88e6-78dbb842c2d5.png)
+| ![image](https://user-images.githubusercontent.com/57494763/189677639-5f2041ea-6da5-4437-88e6-78dbb842c2d5.png) |
+| :---: |
+| 1. Adam Train/Test Accuracy and Loss Curves |
 
-1. Adam Train/Test Accuracy and Loss Curves 
+| ![image](https://user-images.githubusercontent.com/57494763/189677712-1dea1510-1c3c-481e-ab9c-7a4c921e83a7.png) |
+| :---: | 
+| 2. Rectified Adam Train/Test Accuracy and Loss Curves |
 
-![image](https://user-images.githubusercontent.com/57494763/189677712-1dea1510-1c3c-481e-ab9c-7a4c921e83a7.png)
-
-2. Rectified Adam Train/Test Accuracy and Loss Curves
 
 
 ## FINAL MODEL ACCURACY AND RESULTS
