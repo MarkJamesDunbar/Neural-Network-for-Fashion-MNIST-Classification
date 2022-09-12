@@ -1,4 +1,4 @@
-# Fashion-MNIST-Neural-Network
+# Neural Network for Fashion MNIST Classification
 A neural net classifier built in pytorch, aimed at classifying 10 classes of clothing items from the Fashion MNIST dataset.
 
 
