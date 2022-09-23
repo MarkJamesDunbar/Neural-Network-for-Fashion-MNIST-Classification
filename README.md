@@ -1,3 +1,7 @@
+## Please check out my work on the following Google Colab Notebook URL:
+
+https://colab.research.google.com/drive/1PnKsFDnS-oLxWADKx0NQ4UH8fZGdrdCN?usp=sharing
+
 # Neural Network for Fashion MNIST Classification
 A neural net classifier built in pytorch, aimed at classifying 10 classes of clothing items from the Fashion MNIST dataset.
 
